@@ -1,8 +1,8 @@
-**Name** : Atul Ram
+**Name** :  Atul Ram
 
-**Registered email** : atul.13977@gmail.com 
+**Batch number** :  Batch 1
 
-**Batch number** : Batch 1
+**Registered email** :  atul.13977@gmail.com
 
 ----------------
 
