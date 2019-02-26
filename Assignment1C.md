@@ -1,6 +1,6 @@
 **Name** : Atul Ram
 
-**Registered email** : atul13977@gmail.com
+**Registered email** : atul13977@gmail.com 
 
 **Batch number** : Batch 1
 
@@ -14,7 +14,9 @@ Convolution is a mathematical operation which is used in variety of fields like 
 
 ### 2. Filters/Kernels
 
+Filters/Kernels generally are the small sized matrices with which the input image is convolved to get a modified image. In image processing, kernels are used to sharpen, blur or perform similar tasks on the input image. In convolutional neural network, kernel/filter refers to the weight matrix which is convolved with the entire input image generating matrices which when activated gives the next layer. Gradually when the network learns, these kernels become capable of filtering features such as an edge or curve. Below example shows a edge detector kernel.
 
+![kernel](https://i.imgur.com/R4FclEN.jpg)
 
 ### 3. Epochs
 
